@@ -1,3 +1,4 @@
+//Write a program which will print greeting message for your 5 friends.Friends name should be entered as command line arguments.
 import java.util.Scanner;
 public class practical2
 {

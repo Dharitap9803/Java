@@ -1,3 +1,4 @@
+//write a program which will greet you with your name
 import java.util.Scanner;
 public class practical1{
 	public static void main (String args[])

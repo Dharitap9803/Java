@@ -1,3 +1,11 @@
+//Print the following diamond pattern:
+//        *
+//       * *
+//      * * *
+//     * * * *
+//      * * *
+//       * *
+//        *
 import java.util.Scanner;
 public class practical9
 {

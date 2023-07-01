@@ -1,3 +1,4 @@
+//Write a program which will create an array of integers and perform SORTING operation.
 import java.util.Scanner;
 import java.util.*;
 class practical75

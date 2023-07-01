@@ -1,3 +1,4 @@
+//Write a program which will print properties like size,min-value and max-value of each primitive number types in java.(use appropriate wrapper class).
 import java.util.*;
 class practical3
 {

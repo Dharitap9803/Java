@@ -1,10 +1,10 @@
 //Write an interactive program to print a string entered in a pyramid form.For instance ,the string "stream" has to be displayed as follow.
-//S
-//ST
-//STR
-//STRE
-//STREA
-//STREAM
+//      S
+//     S T
+//    S T R
+//   S T R E
+//  S T R E A
+// S T R E A M
 
 import java.util.Scanner;
 import java.util.*;

@@ -1,3 +1,5 @@
+//Write a program which will print result of student according to marks .Like A grade-marks 90 to 100,B grade -marks 80 to 90.
+//C grade -marks 60to80.D grade marks 45to60.E grade-marks 35to 45.Fail-marks below 35(Use Else-if ladder).
 import java.util.Scanner;
 class practical4
 {

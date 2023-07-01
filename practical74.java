@@ -1,3 +1,4 @@
+//Write a program which will create an array of integers and perform MAXIMUM VALUE AND MINIMUM VALUE.
 import java.util.Scanner;
 import java.util.regex.Matcher;
 import java.util.Arrays;

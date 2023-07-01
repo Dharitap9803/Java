@@ -1,3 +1,5 @@
+//Write a program which demonstrate conditional operator ,compound assignment operator ,pre-post increment and decrement operator
+//bitwise operator,logical short circuit operator.
 import java.util.Scanner;
 class practical5
 {

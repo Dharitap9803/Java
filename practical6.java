@@ -1,3 +1,4 @@
+//Write a program to print first N prime numbers
 import java.util.Scanner;
 class practical6
 {

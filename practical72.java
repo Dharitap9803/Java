@@ -1,3 +1,4 @@
+//write a program which will create an array of integers and perform PRODUCT operation.
 class practical72
 {
 	public static void main(String args[])
